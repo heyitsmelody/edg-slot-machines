@@ -2,6 +2,8 @@
 
 EDG Slot-Machines
 
+Tebex: https://eden-garden-shop.tebex.io/category/2323166
+
 -Install
 Configure the script (config.lua)
 Simply drag the resource to you'r resource folder.
